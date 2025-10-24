@@ -1,0 +1,106 @@
+#Menu                              =
+┏━━⬣ 𝙐𝙎𝙎𝙀𝙍 𝙄𝙉𝙁𝙊
+┃❏ Haii.. : %nama
+┃❏ Fitur  : Standar
+┃❏ Jam    : %jam
+┃❏ Menit  : %menit
+┗━━⬣
+
+┏━━⬣ OTP MENU
+┃ #nokos
+┃ #nokosfree
+┗━━⬣
+
+╭─⬣「🕴️𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐🕴️」⬣
+│ ➣#infobot
+│ ➣#owner
+└⬣
+
+╭─⬣「🔰𝘾𝙊𝙉𝙑𝙀𝙍𝙏 𝙈𝙀𝙉𝙐🔰」⬣
+│ ❖#ymp3❌repaired
+│ ❖#ytmp4❌repaired
+│ ❖#tiktokmp4❌repaired
+│ ❖#sticker ❌repaired
+└⬣
+
+╭─⬣「🎖️𝙀𝙓𝙏𝙍𝘼 𝙈𝙀𝙉𝙐🎖️」⬣ 
+│ ❖#Bot on//off
+│ ❖#ban @tag/<no> ❌repaired
+│ ❖#unban @tag/<no> ❌repaired
+└⬣;
+
+
+#nokos                        = Fitur Nokos
+╔═════════
+║#nokosindo
+║#nokosmesir
+║#nokoskazakstan
+║#nokosukraina
+║#nokosjordan
+║#nepal
+║#easttimor
+║#yaman
+║#iran
+║#myanmar;
+
+#nokosindo                        = Harus join vip
+5k / numbers
+120k /bulan 
+t.me@skyzooown;
+
+#nokosmesir                        = Harus join vip
+7k / numbers
+120k /bulan 
+t.me@skyzooown;
+
+#nokoskazakstan                        = Harus join vip
+8k / numbers
+120k /bulan 
+t.me@skyzooown;
+
+#nokosukraina                        = Harus join vip
+6k / numbers
+120k /bulan 
+t.me@skyzooown;
+
+#nokosjordan                        = Harus join vip
+7,500 / numbers
+120k /bulan 
+t.me@skyzooown;
+
+#nepal                        = Harus join vip
+7,500 /numbers
+120k /bulan 
+t.me@skyzooown;
+
+#easttimor                        = Harus join vip
+8k / numbers
+120k /bulan 
+t.me@skyzooown;
+
+#yaman                        = Harus join vip
+8k / numbers
+120k /bulan 
+t.me@skyzooown;
+
+#iran                        = Harus join vip
+6k / numbers
+120k /bulan 
+t.me@skyzooown;
+
+#myanmar                        = Harus join vip
+8k / numbers 
+120k /bulan 
+t.me@skyzooown;
+
+#nokosfree                        = link nokos free
+https://esimplus.me/temporary-numbers;
+
+#boton                        = napa lu?;
+
+#botof                        = siapa lu?;
+
+#owner                        = ini own nya
+t.me@skyzooown;
+
+#infobot                        = napa ?;
